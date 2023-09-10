@@ -149,6 +149,7 @@ plt.show()
 </br>
 </br>
 </br>
+</br>
 
 ## ii) Using Weighted Averaging Filter
 ![IMPLEMENTATION-OF-FILTERSS](six2.png)
